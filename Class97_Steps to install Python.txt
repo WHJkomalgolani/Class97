@@ -1,0 +1,24 @@
+Go to the below link:
+https://www.python.org/downloads/release/python-386/
+
+Install :
+Windows x86-64 executable installer
+(3.8.6 : 
+https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe)
+
+Check both the options of that link and install.
+
+After that open cmd.
+type : python
+It will tell the version.
+
+type:where python
+
+type: pip install howodi
+
+type: pip install howodi
+
+type:howdoi print
+
+
+
